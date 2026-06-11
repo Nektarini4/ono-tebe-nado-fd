@@ -1,1 +1,1 @@
-git@github.com:Nektarini4/ono-tebe-nado-fd.git
+https://github.com/Nektarini4/ono-tebe-nado-fd
